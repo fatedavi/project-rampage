@@ -19,7 +19,7 @@ Laravel Kita is a web application framework with expressive, elegant syntax. We 
 -   [Robust background job processing](https://laravel.com/docs/queues).
 -   [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Laravel is common accessible, powerful, and provides tools required for large, robust applications.
 
 ## Learning Laravel
 
